@@ -1,3 +1,8 @@
+// ******MADE FOR VS CODE*******
+// IMPORTANT NOTE FOR BEGINEERS :-
+// TO RUN ANY CODE JUST,
+// PUT /* AND */ AT THE STARTING AND ENDING OF OTHER CODES,
+// THEN RUN THE CODE.
 // CODE :- 1.
 #include <stdio.h>
 #include <conio.h>
