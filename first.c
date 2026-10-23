@@ -1,4 +1,4 @@
-/*
+// CODE :- 1.
 #include <stdio.h>
 #include <conio.h>
 int main()
@@ -10,6 +10,7 @@ int main()
     getch();
     return 0;
 }
+// CODE :- 2.
 #include<stdio.h>
 #include<conio.h>
 #define pi 3.14
@@ -23,6 +24,7 @@ int main()
     return 0;
 
 }
+// CODE :- 3.
 #include <stdio.h>
 #include <conio.h>
 #include<math.h>
@@ -37,7 +39,8 @@ int main()
     printf("%-lf %+lf %0lf \r%08lf",a,b,c,d);
     printf("\n%Lf",e);
     return 0;
-    }
+    } 
+// CODE :- 4.
     #include <stdio.h>
     #include <conio.h>
     int main()
@@ -52,6 +55,7 @@ int main()
         getch();
         return 0;
     }
+  // CODE  :-5(A).
     #include<stdio.h>
     #include<conio.h>
     int  main()
@@ -68,6 +72,7 @@ int main()
         getch();
         return 0;
     }
+  // CODE :- 5(B).  
     #include<stdio.h>
     #include<conio.h>
     int  main()
@@ -85,5 +90,5 @@ int main()
         printf("The values after swap are %d %d %d",a,b,c);
         getch();
         return 0;
-    }*/
+    }
     
