@@ -1,5 +1,5 @@
 // SUM OF DIGITS OF A NUMBER USING LOOP
-/*#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 int main()
 {
@@ -140,7 +140,7 @@ int main()
     printf("Enter Second Number:\n");
     scanf("%d",&b);
     // METHOD :- 1.
-    /*lcm = a>b?a:b;
+    lcm = a>b?a:b;
       while(1){
         if(lcm%a == 0 && lcm%b == 0){
             printf("LCM of Two Values :%d",lcm);
@@ -149,15 +149,15 @@ int main()
         else{
             lcm
         lcm++;
-        }*/
+        }
     // METHOD :- 2.
-   /* lcm= a*b;
+    lcm= a*b;
     for(i=1;i<=lcm;i++){
         if(i%a == 0 && i%b == 0){
             printf("LCM of Two Values :%d", i);
             break;
         }
-    }*//*
+    }
     getch();
     return 0 ;
 }
@@ -415,4 +415,4 @@ int fib(int a){
     return 1;
     else
     return (fib(a-1)+fib(a-2));   
-}*/
+}
